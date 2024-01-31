@@ -10,3 +10,4 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
+![Steam](https://github.com/ConnerKT/ConnerKT/blob/0d3bcb007be797f177d41d7ea2f0009e6af1419f/assets/exclamationcolor.gif)

@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/ConnerKT?style=social)](https://www.github.com/ConnerCodeCrew)
 [![Linkedin Badge](https://img.shields.io/badge/-CodeCrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ConnerKT/)](https://www.linkedin.com/in/ConnerKT/)
+
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=epicgammie12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="350" />](https://github.com/kittinan/spotify-github-profile)
